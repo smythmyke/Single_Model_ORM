@@ -1,0 +1,16 @@
+#upper #lower{
+  display:flex;
+  /* background-color: red; */
+  
+}
+
+#box {
+  flex-direction: column;
+}
+
+h1 {
+
+  color:blue;
+  text-align: center;
+  border: 3px solid green;
+}
